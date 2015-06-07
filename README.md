@@ -4,7 +4,7 @@ As part of Our Project Development we have released our software made in Google 
 
 This a new idea on how to do hyip analysis to get the hyips rating and scam monitor displayed in a simple way as possible so everyone can follow, thus we presented it online on a Google Spreadsheet.
 
-Please see the official explanation the link below to check it:    
+Please see the official explanation on the link below:    
 https://tophyipmonitor.wordpress.com/hyip-rating/
 
 ***
