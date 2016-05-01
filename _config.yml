@@ -6,7 +6,7 @@ exclude:
 
 url: http://hyip.github.io
 name: The HYIP Project
-topic: Site Ratings
+topic: Site Rating
 path: /rating/site
 
 disqus_shortname: hyips
