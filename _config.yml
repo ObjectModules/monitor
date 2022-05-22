@@ -7,6 +7,7 @@ url: http://hyip.github.io/info
 name: The HYIP Project
 
 path: /parser/site
+remote_theme: eQ19/theme
 permalink: /:categories/:title/
 
 disqus_shortname: restcookbook
